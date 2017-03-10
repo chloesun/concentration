@@ -1,0 +1,25 @@
+body{
+	background: #ccc;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.intro{
+	background: #ffffff;
+	padding: 5px;
+	text-shadow: 2px 2px 2px #888888;
+}
+
+.card{
+	background: #93d89b;
+	border: 2px solid #ffffff;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #888888;
+	width:50px;
+	height:50px;
+	margin:10px;
+	padding:20px;
+	font-size:30px;
+	
+	cursor:pointer;
+	text-align: center;
+}
